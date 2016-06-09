@@ -8,7 +8,7 @@ We don’t want anyone to be excluded due to age, gender, sexual orientation, me
 
 Sexual language and imagery is not appropriate during talks. Refrain from using these in your slides. Sexist, racist, or exclusionary jokes are not acceptable.
 
-## For Attendees
+## For Everyone
 
 Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
