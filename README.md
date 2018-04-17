@@ -1,6 +1,6 @@
-# GDG Wellington Code Of Conduct
+# Cocoaheads Wellington Code Of Conduct
 
-GDG Wellington is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or political views. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
+Cocoaheads Wellington is dedicated to providing a harassment-free experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, religion, or political views. We do not tolerate harassment of participants or events staff in any form. Sexual language and imagery is not appropriate for any conference or professional venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organizers.
 
 We don’t want anyone to be excluded due to age, gender, sexual orientation, mental or physical impairments, appearance or skin colour, national or religious background. We hope to see the same attitude with our attendees, and look forward to experiencing a non-violent and peaceful event with you.
 
@@ -14,12 +14,14 @@ Harassment includes offensive verbal comments related to gender, sexual orientat
 
 ## Action
 
-If you are being harassed, notice someone else that is being harassed, or have any other concerns, please contact a member of the GDG Wellington organizers or volunteers immediately.
+If you are being harassed, notice someone else that is being harassed, or have any other concerns, please contact a member of the Cocoaheads Wellington organizers or volunteers immediately.
 
-GDG Wellington organizers and volunteers can be identified by t-shirts or will be stationed at reception/check-in of the venue. Contact email: gdgwellington@gmail.com
+Cocoaheads Wellington organizers and volunteers can be identified by t-shirts or will be stationed at reception/check-in of the venue. 
+Alternatively, you can contact us via Twiter message @CocoaheadsWGTN
+
 
 ## License
 
-This Code of Conduct was forked from try! Conference Code Of Conduct, which was forked from iOSDevCampDC 2015, which was forked from Droidcon NYC 2015, which was in turn forked from Droidcon India 2014, which in turn was forked from the PyCon US Code of Conduct, which in turn was forked from the Geek Feminism wiki, created by the Ada Initiative and other volunteers and available under a creative Commons Zero license.
+This Code of Conduct was forked from GDG Wellington, which as forked from try! Conference Code Of Conduct, which was forked from iOSDevCampDC 2015, which was forked from Droidcon NYC 2015, which was in turn forked from Droidcon India 2014, which in turn was forked from the PyCon US Code of Conduct, which in turn was forked from the Geek Feminism wiki, created by the Ada Initiative and other volunteers and available under a creative Commons Zero license.
 
-The Conference Code of Conduct for GDG Wellington 2016 is licensed under a Creative Commons Attribution 3.0 Unported License.
+The Conference Code of Conduct for Cocoaheads Wellington 2016 is licensed under a Creative Commons Attribution 3.0 Unported License.
